@@ -1,5 +1,5 @@
 ---
-title: DnR-nonverbal\: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds
+title: "DnR-nonverbal: Cinematic Audio Source Separation Dataset Containing Non-Verbal Sounds"
 layout: default
 ---
 
